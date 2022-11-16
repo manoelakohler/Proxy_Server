@@ -1,9 +1,9 @@
-# Conexão através de um servidor secundário (Proxy) em python
+# Conection through a secondary server (Proxy) in Python
 
 
-Preencha os respectivos ips, nomes de usuário e chaves privadas.
+Fill the respective ips, user names and private keys.
 
-Criar chave privada:
+How to create a private key:
 
 ```
 cd ~/.ssh
